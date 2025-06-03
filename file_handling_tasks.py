@@ -1,7 +1,4 @@
-# file_handling_tasks.py
 
-# This file includes placeholders for file handling tasks.
-# Students should complete each function according to the instructions.
 
 def task1_create_file():
     # TODO: Create a new text file and write "Hello, world!" to it.
